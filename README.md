@@ -10,7 +10,7 @@ Procedurally generated obstacles keep each run unique, while speed boosts, traps
 - **Speed boost power-up** to cover more ground quickly.  
 - **Flying objects** that slow you down when collided with.  
 - **Fence obstacles** that block your path.  
-- **Timer-based challenge** – the level ends if time runs out.  
+- **Timer-based challenge** , the level ends if time runs out.  
 - **Checkpoints** that reward extra time.  
 - **Collectible coins** that increase your score.  
 
@@ -22,4 +22,4 @@ Procedurally generated obstacles keep each run unique, while speed boosts, traps
 3. Pass **checkpoints** to gain extra time.  
 4. Avoid fences and flying objects that can slow you down.  
 5. Use **speed boosts** wisely to cover more ground.  
-6. Keep running until the timer hits zero — or until you crash!
+6. Keep running until the timer hits zero or until you crash!
